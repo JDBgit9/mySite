@@ -1,11 +1,10 @@
 body {
 margin: 0;
-text-align: center
+text-align: center;
 }
 
 h1 {
-    width: 20%;
-    margin: 0 auto 0 auto;
+    margin-top: 0;
 }
 
 .top-container {
