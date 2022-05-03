@@ -7,6 +7,10 @@ h1 {
     margin-top: 0;
 }
 
+.pro  {
+   text-decoration: underline; 
+}
+
 .top-container {
 background-color: #BFFFF0;
 padding-left: 10px;
