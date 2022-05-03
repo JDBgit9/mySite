@@ -12,11 +12,9 @@ padding-left: 10px;
 }
 
 .middle-container {
-    background-color: blue;
-    width: 200px;
+    background-color: rgb(171, 62, 164);
     height: 200px;
-    border: solid 20px;
-    margin-left: 260px;
+ 
 }
 
 .bottom-container {
