@@ -7,8 +7,16 @@ font-family: 'Merriweather', serif;
 
 h1 {
     margin-top: 0;
+    font-family: 'Sacramento', cursive;
 }
 
+h2 {
+    font-family: 'Sacramento', cursive;
+}
+
+h3 {
+    font-family: 'Sacramento', cursive;
+}
 .pro  {
    text-decoration: underline; 
 }
