@@ -42,9 +42,13 @@ height: 200px;
 .pic2 {
     width:  200px;
     height: 200px;
-    position: relative;
-    
-    
+    position: relative;   
+}
+
+.pic3 {
+    width:  200px;
+    height: 200px;
+
 }
 
 .bottom-container {
