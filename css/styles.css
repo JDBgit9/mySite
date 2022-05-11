@@ -64,7 +64,8 @@ height: 200px;
 }
 
 .bottom-container {
-    color: #66BFBF;
+    height: 100px;
+    background-color: #66BFBF;
 }
 
 .skill-row {
