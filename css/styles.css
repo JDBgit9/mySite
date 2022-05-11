@@ -21,7 +21,7 @@ h2 {
 }
 
 h3 {
-    font-family: 'Sacramento', cursive;
+    font-family: 'Meriweather', serif;
     color: #11999E;
 }
 .pro  {
@@ -50,11 +50,16 @@ height: 200px;
     width:  25%;
     height: 200px;
     position: relative;   
+    float: left;
+    margin-right: 30px;
+    
 }
 
 .pic3 {
     width:  25%;
     height: 200px;
+    float: right;
+    margin-left: 30px;
 
 }
 
