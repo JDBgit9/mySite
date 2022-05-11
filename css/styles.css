@@ -64,8 +64,7 @@ height: 200px;
 }
 
 .bottom-container {
-    
-    
+    color: #66BFBF;
 }
 
 .skill-row {
@@ -123,6 +122,14 @@ hr {
     box-shadow: 0 5px #650;
     transform: translateY(4px);
   }
+
+.footer-link {
+    color: #11999E;
+}
+
+.footer-signature {
+    color: white;
+}
 
 /*.about-me-description {
 clear: left;
