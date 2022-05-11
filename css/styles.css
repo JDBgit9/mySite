@@ -59,12 +59,20 @@ height: 200px;
 }
 
 .bottom-container {
-   
     
-   
 }
-.skill-row {
+
+.skill-row1 {
     width: 50%;
+    margin: 100px auto 100p auto;
+    text-align: center;
+
+}
+
+.skills {
+    width: 50%;
+    margin: 100px auto 100p auto;
+    text-align: center;
 
 }
 
