@@ -65,6 +65,7 @@ height: 200px;
 
 .bottom-container {
     
+    
 }
 
 .skill-row {
@@ -98,6 +99,30 @@ hr {
     border-width: 5px;
     width: 10%;
 }
+
+.btn {
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #11999E;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    margin: 50px; 
+  }
+  
+  .btn:hover {background-color: #31e437}
+  
+  .btn:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #650;
+    transform: translateY(4px);
+  }
 
 /*.about-me-description {
 clear: left;
