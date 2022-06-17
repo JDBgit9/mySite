@@ -159,7 +159,7 @@ height: 200px;
 
 .btn {
     display: inline-block;
-    padding: 5px 25px 10px 25px;
+    padding: 5px;
     font-size: 24px;
     cursor: pointer;
     text-align: center;
@@ -169,7 +169,7 @@ height: 200px;
     background-color: #11999E;
     border: none;
     border-radius: 15px;
-    box-shadow: 0 9px #999;
+    box-shadow: 0 3px #999;
     margin: 10px; 
   }
   
