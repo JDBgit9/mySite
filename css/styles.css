@@ -155,6 +155,8 @@ hr {
     border-color: grey;
     border-width: 5px;
     width: 10%;
+    position: relative;
+    left: 50px;
 }
 
 .btn {
