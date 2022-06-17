@@ -68,7 +68,7 @@ h2 {
 
 h3 {
     font-family: 'Meriweather', serif;
-    color: #11999E;
+    color: #9de8eb;
 }
 .pro  {
    text-decoration: underline; 
@@ -76,13 +76,14 @@ h3 {
 
 p {
     line-height: 2;
+    color: #fff;
 }
 
 .top-container {
+    max-width: 1320px;
+    height: 610px;
 background-color: #BFFFF0;
-position: relative;
 padding-top: 100px;
-width: 100%;
 align-items: center;
 }
 
@@ -95,6 +96,7 @@ align-items: center;
 .pic1 {
 width: 200px;
 height: 200px;
+
 }
 
 .pic2 {
