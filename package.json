@@ -1,5 +1,26 @@
 {
   "dependencies": {
-    "bootstrap": "^5.2.0-beta1"
-  }
+    "bootstrap": "^5.2.0-beta1",
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "name": "mysite",
+  "version": "1.0.0",
+  "description": "James Justis landing page",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JDBgit9/CSSmySite.git"
+  },
+  "author": "James Justis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JDBgit9/CSSmySite/issues"
+  },
+  "homepage": "https://github.com/JDBgit9/CSSmySite#readme"
 }
