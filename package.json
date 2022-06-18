@@ -8,7 +8,7 @@
   "name": "mysite",
   "version": "1.0.0",
   "description": "James Justis landing page",
-  "main": "index.js",
+  "main": "server.js",
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
