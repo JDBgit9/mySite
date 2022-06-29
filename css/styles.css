@@ -175,6 +175,11 @@ height: 200px;
   
 }
 
+p {
+    width: 60%;
+    margin: auto;
+}
+
 .btn {
     display: inline-block;
     padding: 5px;
@@ -207,13 +212,13 @@ height: 200px;
 .footer-signature {    
     width: 100%;
     color: white;
-    margin: 10px 0px 20px 40px;
+    margin: 10px 0px 20px -20px;
 }
 
 .footer-social {
     width: 92%;
     color: white;
-    margin: 40px 20px 20px 40px;
+    margin: 40px 20px 20px 10px;
    
 }
 
