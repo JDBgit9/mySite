@@ -125,6 +125,8 @@ height: 200px;
 .bottom-container {
     height: 120px;
     text-align: center;
+    align-items: center;
+    justify-content: center;
 }
 
 .skill-row {
@@ -204,11 +206,12 @@ height: 200px;
 
 .footer-signature {
     color: white;
-    margin-top: 5px;
+    margin: 10px 100px 20px 40px;
 }
 
 .footer-social {
     color: white;
+    margin: 40px 160px 20px 115px;
 }
 
 
