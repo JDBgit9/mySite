@@ -60,7 +60,9 @@ h1 {
 }
 
 .pro-h2 {
+    width: 90%;
     color: #0de8eb;
+    margin: 30px 80px 0px -15px;
 }
 
 .mount-1 {
@@ -108,8 +110,8 @@ height: 200px;
 }
 
 .pic2 {
-    width:  25%;
-    height: 200px;
+    width:  50%;
+    height: 50%;
     position: relative;   
     float: left;
     margin-right: 30px;
@@ -117,8 +119,8 @@ height: 200px;
 }
 
 .pic3 {
-    width:  25%;
-    height: 200px;
+    width:  50%;
+    height: 50%;
     float: right;
     margin-left: 30px;
 
