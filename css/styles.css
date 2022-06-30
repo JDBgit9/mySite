@@ -104,14 +104,14 @@ align-items: center;
 }
 
 .pic1 {
-width: 200px;
-height: 200px;
+width: 25%;
+height: 25%;
 
 }
 
 .pic2 {
-    width:  50%;
-    height: 50%;
+    width:  40%;
+    height: 40%;
     position: relative;   
     float: left;
     margin-right: 30px;
@@ -119,8 +119,8 @@ height: 200px;
 }
 
 .pic3 {
-    width:  50%;
-    height: 50%;
+    width:  40%;
+    height: 40%;
     float: right;
     margin-left: 30px;
 
